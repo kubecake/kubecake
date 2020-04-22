@@ -1,6 +1,10 @@
 # KubeCAKE : Club de Aprendizaje de Kubernetes en Español
 (and English)
 
+## Actividades recientes
+
+5/Mayo/2018 : Charla "Cómo y por qué iniciarse en Kubernetes" por Vicente Herrera en [CoffeeWIP](https://twitter.com/coffeewip)
+
 ## Intro
 
 Bienvenido a KubeCAKE. Esto es una comunidad de aprendizaje interesada en containers, Docker, Kubernetes, clusters, y conceptos de seguridad y resiliencia en alta disponibildiad.
@@ -19,7 +23,7 @@ Basta decir que para incorporar información aquí solo hay que hacer una Pull R
 
 Personas con cualquier nivel están invitadas a participar, aquellos que sepan más pueden aportar conocimiento a los que saben menos. En principio no vamos a ser un foro de preguntas y respuestas, pero las peticiones que se puedan convertir en lecciones para otros son bienvenidas. Referencias a otros materiales, web, videos o cursos son bienvenidas, pero no permitiremos compartir contenido pirateado.
 
-## Amigos
+## Grupos Amigos
 
 Los siguientes grupos o empresas son amigos de esta iniciativa; por colaborar, difundir o ayudar en alguna medida.
 * [Hacking Sevilla](https://www.meetup.com/es-ES/hacking-sevillaQK14/)
