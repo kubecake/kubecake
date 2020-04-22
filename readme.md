@@ -18,3 +18,10 @@ En esta primera versión beta, todo está por definir, y aunque varias personas 
 Basta decir que para incorporar información aquí solo hay que hacer una Pull Request (de master a master) con lo que queremos incorporar, que pretendemos hacer videoconferencias y grabar videos en lo posible, y que intentaremos hacer un recorrido coherente que permita a gente que nunca ha usado nada de Kubernetes, llegar a dominarlo lo mejor posible.
 
 Personas con cualquier nivel están invitadas a participar, aquellos que sepan más pueden aportar conocimiento a los que saben menos. En principio no vamos a ser un foro de preguntas y respuestas, pero las peticiones que se puedan convertir en lecciones para otros son bienvenidas. Referencias a otros materiales, web, videos o cursos son bienvenidas, pero no permitiremos compartir contenido pirateado.
+
+## Amigos
+
+Los siguientes grupos o empresas son amigos de esta iniciativa; por colaborar, difundir o ayudar en alguna medida.
+* [Hacking Sevilla](https://www.meetup.com/es-ES/hacking-sevillaQK14/)
+* [CoffeeWIP](https://twitter.com/coffeewip)
+
