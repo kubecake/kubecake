@@ -1,0 +1,25 @@
+apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+kind: Deployment
+metadata:
+  name: myphp-dp
+  labels:
+    app: myphp-app
+spec:
+  selector:
+    matchLabels:
+      app: myphp-app
+      tier: frontend
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: myphp-app
+        tier: frontend
+    spec:
+      containers:
+      - image: vicenteherrera/myphp:latest
+        name: myphp
+        ports:
+        - containerPort: 80
+          name: myphp-port-80
