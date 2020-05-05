@@ -3,8 +3,11 @@
 
 ## Actividades recientes
 
-5/Mayo/2018 : Charla "Cómo y por qué iniciarse en Kubernetes" por Vicente Herrera en [CoffeeWIP](https://twitter.com/coffeewip)
-
+* _5/Mayo/2018 19:00:_ Charla **"Introducción a Docker"** por [Amaranto del Barrio](https://twitter.com/onubense1989), y **"Cómo y por qué iniciarse en Kubernetes"** por [Vicente Herrera](https://twitter.com/vicen_herrera), en [CoffeeWIP](https://twitter.com/CoffeeWip/status/1255789429140213763)
+    * [Enlace para acceder a la videoconferencia](https://sysdig.zoom.us/j/98513470936?pwd=RWNMODhXQ1R3byttaTBRb253L3U3QT09)
+    * Docker: [Presentación](https://docs.google.com/presentation/d/19FRBEDEWdmKu0n1BR4JHKxmIYAgavYfOe37JNiu1v5Q/) | [Ficheros](https://github.com/alonsomaniaco/webDocker)
+    * Kubernetes: [Presentación](https://docs.google.com/presentation/d/1Z6DaC028JXBWbS3l-uSd8JCj2jwgH1SO9ejs3XBkkn4) | [Ficheros](https://github.com/kubecake/kubecake/blob/master/lessons/00-intro-to-kubernetes/index.md)
+    
 ## Intro
 
 Bienvenido a KubeCAKE. Esto es una comunidad de aprendizaje interesada en containers, Docker, Kubernetes, clusters, y conceptos de seguridad y resiliencia en alta disponibildiad.
